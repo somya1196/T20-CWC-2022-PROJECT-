@@ -15,13 +15,17 @@ https://app.powerbi.com/groups/me/reports/237850a4-12bd-4c47-badf-9a0f41b44d31/5
 
 
 ## Snap of Dashboard
-![page_1](https://github.com/somya1196/T20-CWC-2022-PROJECT-/assets/108212411/af2dcbff-f006-4bb5-abac-1c9eaa4bb30e)
+![Screenshot (33)](https://github.com/user-attachments/assets/c9363847-7ca7-4598-8aa8-f87cd00dc7d0)
+
 
 ## Snap of Selected Players
-![Screenshot (27)](https://github.com/user-attachments/assets/eec88e13-a279-4f28-823d-de1b16963626)
+![Screenshot (27)](https://github.com/user-attachments/assets/07bb472d-2128-4a7f-b07b-259d4d761f1f)
+
 
 ## Snap of Selected Players
-![Screenshot (31)](https://github.com/user-attachments/assets/37ed8112-3b0e-4f46-bb05-26d09df1fbef)
+![Screenshot (31)](https://github.com/user-attachments/assets/f7496d16-02cd-452f-b4e5-ba504172a789)
 
-## Snap of Selected Players
-![IMG_20240407_115246](https://github.com/somya1196/T20-CWC-2022-PROJECT-/assets/108212411/55809704-d22b-4479-9948-1076b17e0000)
+
+## Snap of Final 11 Players
+![Screenshot (34)](https://github.com/user-attachments/assets/34fb1b82-b443-4a57-a5d1-ff5440342108)
+
